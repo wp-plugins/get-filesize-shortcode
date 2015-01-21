@@ -16,9 +16,9 @@ License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
 #### Usage
 
-Put **`[filesize]http:yoursite.com/path/to/file.pdf[/filesize]`** anywhere in a post.
+Put `[filesize]http:yoursite.com/path/to/file.pdf[/filesize]` anywhere in a post.
 
-Alse you can place **`<?php echo do_shortcode('[filesize]http:yoursite.com/path/to/file.pdf[/filesize]'); ?>`** in your templates.
+Also you can place `<?php echo do_shortcode('[filesize]http:yoursite.com/path/to/file.pdf[/filesize]'); ?>` in your templates.
 
 #### Note
 
